@@ -169,6 +169,10 @@ p {
 .hidden{
   visibility: hidden;
 }
+.btn-lg{
+  background-color: #ff4c68;
+  color: white;
+}
 #footer{
   background-color: #ff4c68;
 }
